@@ -5,7 +5,7 @@
 
 ### Sobre mí
 
-Analizo datos públicos (BCRP, INEI, reportes de empresas) para responder preguntas de negocio concretas: **qué está creciendo, por qué y qué conviene hacer.** Trabajo de punta a punta, desde la extracción por API y la limpieza con pandas hasta el dashboard final en Power BI o Dash. Hoy exploro agentes de datos con LLMs.
+Analizo datos públicos (BCRP, INEI, reportes de empresas) para responder preguntas de negocio concretas: qué está creciendo, por qué y qué conviene hacer. Trabajo de punta a punta, desde la extracción por API y la limpieza con pandas hasta el dashboard final en Power BI o Dash. Hoy exploro agentes de datos con LLMs.
 
 ### Proyectos de análisis
 
