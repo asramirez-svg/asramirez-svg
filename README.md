@@ -14,8 +14,7 @@ Analizo datos públicos (BCRP, INEI, reportes de empresas) para responder pregun
     <td width="50%" valign="top">
       <a href="https://github.com/asramirez-svg/alicorp-analisis-resultados">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="assets/proyecto-alicorp-dark.png">
-          <img alt="Dashboard de resumen ejecutivo de Alicorp en Power BI" src="assets/proyecto-alicorp-light.png" width="100%">
+          <img alt="Alicorp: análisis de resultados 1T24–2T26 con dashboard en Power BI" src="https://raw.githubusercontent.com/asramirez-svg/alicorp-analisis-resultados/main/img/00_portada.png" width="100%">
         </picture>
       </a>
       <h3><a href="https://github.com/asramirez-svg/alicorp-analisis-resultados">Alicorp: ¿qué impulsa sus resultados?</a></h3>
