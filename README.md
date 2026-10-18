@@ -25,8 +25,7 @@ Analizo datos públicos (BCRP, INEI, reportes de empresas) para responder pregun
     <td width="50%" valign="top">
       <a href="https://github.com/asramirez-svg/dashboards-peru">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="assets/proyecto-dashboards-peru-dark.png">
-          <img alt="App de Dash con el tipo de cambio del BCRP" src="assets/proyecto-dashboards-peru-light.png" width="100%">
+          <img alt="Dashboards Perú: tipo de cambio del BCRP y empleo del INEI en una app de Dash" src="https://raw.githubusercontent.com/asramirez-svg/dashboards-peru/main/img/00_portada.png" width="100%">
         </picture>
       </a>
       <h3><a href="https://github.com/asramirez-svg/dashboards-peru">Dashboards Perú</a></h3>
@@ -39,8 +38,7 @@ Analizo datos públicos (BCRP, INEI, reportes de empresas) para responder pregun
     <td width="50%" valign="top">
       <a href="https://github.com/asramirez-svg/ia-generativa-world-happiness">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="assets/proyecto-world-happiness-dark.png">
-          <img alt="Gráfico de los 10 países más felices" src="assets/proyecto-world-happiness-light.png" width="100%">
+          <img alt="World Happiness: dashboard en Plotly y agente de datos con LLM" src="https://raw.githubusercontent.com/asramirez-svg/ia-generativa-world-happiness/main/img/00_portada.png" width="100%">
         </picture>
       </a>
       <h3><a href="https://github.com/asramirez-svg/ia-generativa-world-happiness">IA generativa · World Happiness</a></h3>
@@ -51,8 +49,7 @@ Analizo datos públicos (BCRP, INEI, reportes de empresas) para responder pregun
     <td width="50%" valign="top">
       <a href="https://github.com/asramirez-svg/ibm-data-analyst-capstone">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="assets/proyecto-ibm-capstone-dark.png">
-          <img alt="Dashboard de uso de tecnologías en IBM Cognos" src="assets/proyecto-ibm-capstone-light.png" width="100%">
+          <img alt="Tendencias tecnológicas de desarrolladores: dashboard en IBM Cognos" src="https://raw.githubusercontent.com/asramirez-svg/ibm-data-analyst-capstone/main/img/00_portada.png" width="100%">
         </picture>
       </a>
       <h3><a href="https://github.com/asramirez-svg/ibm-data-analyst-capstone">IBM Data Analyst Capstone</a></h3>
